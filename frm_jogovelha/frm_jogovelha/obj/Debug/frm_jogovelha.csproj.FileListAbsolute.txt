@@ -1,0 +1,13 @@
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\frm_jogovelha.csprojResolveAssemblyReference.cache
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\frm_jogovelha.Form1.resources
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\frm_jogovelha.Properties.Resources.resources
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\frm_jogovelha.csproj.GenerateResource.Cache
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\bin\Debug\Jogo da Velha.exe.config
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\bin\Debug\Jogo da Velha.exe.manifest
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\bin\Debug\Jogo da Velha.application
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\bin\Debug\Jogo da Velha.exe
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\bin\Debug\Jogo da Velha.pdb
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\Jogo da Velha.exe.manifest
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\Jogo da Velha.application
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\Jogo da Velha.exe
+C:\Users\Leonan\Documents\Visual Studio 2013\Projects\Video Aula Youtube\frm_jogovelha\frm_jogovelha\obj\Debug\Jogo da Velha.pdb
