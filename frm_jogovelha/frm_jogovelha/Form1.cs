@@ -250,6 +250,11 @@ namespace frm_jogovelha
             vencedor();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Teste de Botão");
+        }
+
         private void bt9_Click(object sender, EventArgs e)
         {
             if (rb_X.Checked)

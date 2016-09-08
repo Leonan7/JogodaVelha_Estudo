@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pnl_bottom2 = new System.Windows.Forms.Panel();
+            this.lb_cont = new System.Windows.Forms.Label();
             this.bt9 = new System.Windows.Forms.Button();
             this.bt8 = new System.Windows.Forms.Button();
             this.bt7 = new System.Windows.Forms.Button();
@@ -56,7 +57,7 @@
             this.tb_jogador1 = new System.Windows.Forms.TextBox();
             this.lb_jogador2 = new System.Windows.Forms.Label();
             this.lb_jogador = new System.Windows.Forms.Label();
-            this.lb_cont = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.pnl_bottom2.SuspendLayout();
             this.pnl_top.SuspendLayout();
             this.gb_empate.SuspendLayout();
@@ -68,6 +69,7 @@
             // pnl_bottom2
             // 
             this.pnl_bottom2.BackColor = System.Drawing.SystemColors.Control;
+            this.pnl_bottom2.Controls.Add(this.button1);
             this.pnl_bottom2.Controls.Add(this.lb_cont);
             this.pnl_bottom2.Controls.Add(this.bt9);
             this.pnl_bottom2.Controls.Add(this.bt8);
@@ -85,6 +87,15 @@
             this.pnl_bottom2.Name = "pnl_bottom2";
             this.pnl_bottom2.Size = new System.Drawing.Size(758, 282);
             this.pnl_bottom2.TabIndex = 1;
+            // 
+            // lb_cont
+            // 
+            this.lb_cont.AutoSize = true;
+            this.lb_cont.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_cont.Location = new System.Drawing.Point(110, 124);
+            this.lb_cont.Name = "lb_cont";
+            this.lb_cont.Size = new System.Drawing.Size(0, 16);
+            this.lb_cont.TabIndex = 2;
             // 
             // bt9
             // 
@@ -421,14 +432,17 @@
             this.lb_jogador.Size = new System.Drawing.Size(0, 16);
             this.lb_jogador.TabIndex = 5;
             // 
-            // lb_cont
+            // button1
             // 
-            this.lb_cont.AutoSize = true;
-            this.lb_cont.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_cont.Location = new System.Drawing.Point(110, 124);
-            this.lb_cont.Name = "lb_cont";
-            this.lb_cont.Size = new System.Drawing.Size(0, 16);
-            this.lb_cont.TabIndex = 2;
+            this.button1.Font = new System.Drawing.Font("Snap ITC", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Location = new System.Drawing.Point(571, 124);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(140, 49);
+            this.button1.TabIndex = 15;
+            this.button1.Text = "Teste";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -492,7 +506,7 @@
         private System.Windows.Forms.Button bt2;
         private System.Windows.Forms.Button bt1;
         private System.Windows.Forms.Label lb_cont;
-
+        private System.Windows.Forms.Button button1;
     }
 }
 
